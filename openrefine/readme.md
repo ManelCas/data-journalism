@@ -1,4 +1,4 @@
-#Advanced data cleaning with OpenRefine
+# Advanced data cleaning with OpenRefine
 Sarah Cohen / sarah.cohen@nytimes.com / Denver CAR 2016
 
 This tutorial walks through a cleanup of a spreadsheet compiled from the Medicaid long-term managed care reports from New York State.  This data was only going to be used for a few minutes as a way to determine which company would make a good subject based on its growth and size.  It wasn't worth a lot of work and using OpenRefine and regular expressions made a quick job of it. 
@@ -203,9 +203,13 @@ Once you switch back to the row view, you can delete the Total rows.  (There are
 ![](images/openrefinedone.png)
 
 
-###**_Congratulations! You now have tidy data!_** 
+### Congratulations! You now have tidy data!
 
-Before you put the data into a pivot table, don't forget to use Refine's powerful clustering capability to standardize the plan names. 
+... Almost. 
+
+On your own, try using the clustering ability in Open Refine to standardize the company names. 
+
+
 
 Here's the chart from Tableau that we used to choose the company.  (It turned out the 2008 data was spotty, so we started the analysis in 2010, and we limited it to those operating in New York City.)
 
