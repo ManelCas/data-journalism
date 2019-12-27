@@ -1,3 +1,8 @@
+
+This site is super old. Almost everything in the data journalism course has been moved to https://cronkitedata.github.io/cronkite-docs
+
+
+
 Skills for data journalism 
 =======
 
